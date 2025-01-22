@@ -5,7 +5,8 @@ import { useGSAP } from "@gsap/react";
 import { useRef } from "react";
 import { useEffect, useState} from "react";
 import { useWindowScroll } from "react-use";
-gsap.registerPlugin(ScrollTrigger);
+
+gsap.registerPlugin(ScrollTrigger)
 gsap.registerPlugin(useGSAP)
 
 
