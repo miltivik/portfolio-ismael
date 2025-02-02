@@ -28,7 +28,7 @@ const Hero = () => {
             </a>
           </button>
           <button className="text-lg group text-zinc-400">
-            <a href="@/Download/CV.pdf" download="CV.pdf" className="flex items-center gap-2 font-semibold hover:text-zinc-400/80">
+            <a href="/Download/CV.pdf" download="CV.pdf" className="flex items-center gap-2 font-semibold hover:text-zinc-400/80">
               <Download className="w-6 h-6 ml-1 text-blue-500 transition-transform group-hover:translate-y-0.5" />
               Download CV
             </a>
