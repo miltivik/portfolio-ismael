@@ -49,7 +49,7 @@ import { ChevronRight } from 'lucide-react';
                     <div className="lg:grid lg:grid-cols-3 raleway ">
                         <div className="mb-12 z-30">
                             <h2 className="mb-8 headline-1 lg:max-w-[24ch] raleway">Let&apos;s work together today!</h2>
-                            <ButtonPrimary href='ismamed4@gmail.com' label='Start project' classes={' '}  icon={<ChevronRight className="hover:translate-x-1 transition-all" />} />
+                            <ButtonPrimary href='mailto:ismamed4@gmail.com' label='Start project' classes={' '}  icon={<ChevronRight className="hover:translate-x-1 transition-all" />} />
                         </div>
                     <div className="grid grid-cols-2 gap-4 lg:pl-40 z-30">
                         <div className="mb-2 ">
